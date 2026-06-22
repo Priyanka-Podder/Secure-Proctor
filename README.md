@@ -19,17 +19,21 @@ Secure Proctor is an online examination proctoring platform that analyzes webcam
 
 ### Frontend
 - React.js
-- TensorFlow.js
-- HTML5
-- CSS3
-- JavaScript
+- Redux
+- Material-UI
 
 ### Backend
 - Node.js
 - Express.js
+- Passport.js
+- JWT Authentication
 
 ### Database
-- MongoDB
+- MongoDB Atlas
+- Mongoose
+
+### Deep Learning Models
+- COCO-SSD, PoseNet from TensorFlow.js
 
 ## Architecture
 
